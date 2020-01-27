@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pedr0schmidt/Curso_Nodejs/issues"
   },
-  "homepage": "https://github.com/pedr0schmidt/Curso_Nodejs#readme"
+  "homepage": "https://github.com/pedr0schmidt/Curso_Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
